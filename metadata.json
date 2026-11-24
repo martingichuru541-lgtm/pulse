@@ -1,0 +1,6 @@
+{
+  "name": "KenyaOne Pulse",
+  "description": "The Heartbeat of Kenya. Live Everywhere. National entertainment, nightlife, live-streaming, events, creator-economy, and 47-county cultural ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
